@@ -13,11 +13,18 @@ namespace mastermind_test_34_programe
             int pionrouge;
             pionblanc = 0;
             pionrouge = 0;
+     
             coulDepart(tCodeSecret, alea, out tCodeSecret);
             coolPlayer(tCouleurJoueur, out tCouleurJoueur);
 
             calcBonPlace(tCouleurJoueur, tCodeSecret, pionrouge, out pionrouge);
             calcBonCoul(tCouleurJoueur, tCodeSecret, pionblanc, out pionblanc);
+
+            if (pionblanc = 5)
+            {
+
+            }
+
         } 
             static void coulDepart(int[] tCodeSecret, Random alea, out int[] lol)
             {

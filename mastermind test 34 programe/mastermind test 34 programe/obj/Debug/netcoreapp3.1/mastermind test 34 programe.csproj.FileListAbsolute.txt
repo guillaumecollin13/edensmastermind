@@ -12,3 +12,10 @@ H:\uaa11\uaa11\mastermind test 34 programe\mastermind test 34 programe\bin\Debug
 H:\uaa11\uaa11\mastermind test 34 programe\mastermind test 34 programe\obj\Debug\netcoreapp3.1\mastermind test 34 programe.dll
 H:\uaa11\uaa11\mastermind test 34 programe\mastermind test 34 programe\obj\Debug\netcoreapp3.1\mastermind test 34 programe.pdb
 H:\uaa11\uaa11\mastermind test 34 programe\mastermind test 34 programe\obj\Debug\netcoreapp3.1\mastermind test 34 programe.genruntimeconfig.cache
+H:\edensMatserMind\edensmastermind\mastermind test 34 programe\mastermind test 34 programe\obj\Debug\netcoreapp3.1\mastermind test 34 programe.csproj.AssemblyReference.cache
+H:\edensMatserMind\edensmastermind\mastermind test 34 programe\mastermind test 34 programe\obj\Debug\netcoreapp3.1\mastermind test 34 programe.GeneratedMSBuildEditorConfig.editorconfig
+H:\edensMatserMind\edensmastermind\mastermind test 34 programe\mastermind test 34 programe\obj\Debug\netcoreapp3.1\mastermind test 34 programe.AssemblyInfoInputs.cache
+H:\edensMatserMind\edensmastermind\mastermind test 34 programe\mastermind test 34 programe\obj\Debug\netcoreapp3.1\mastermind test 34 programe.AssemblyInfo.cs
+H:\edensMatserMind\edensmastermind\mastermind test 34 programe\mastermind test 34 programe\obj\Debug\netcoreapp3.1\mastermind test 34 programe.csproj.CoreCompileInputs.cache
+H:\edensMatserMind\edensmastermind\mastermind test 34 programe\mastermind test 34 programe\obj\Debug\netcoreapp3.1\mastermind test 34 programe.dll
+H:\edensMatserMind\edensmastermind\mastermind test 34 programe\mastermind test 34 programe\obj\Debug\netcoreapp3.1\mastermind test 34 programe.pdb
