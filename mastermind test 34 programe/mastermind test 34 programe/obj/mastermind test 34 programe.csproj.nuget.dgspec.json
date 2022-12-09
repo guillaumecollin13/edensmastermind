@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\uaa11\\uaa11\\mastermind test 34 programe\\mastermind test 34 programe\\mastermind test 34 programe.csproj": {}
+    "H:\\edensmastermind\\edensmastermind\\mastermind test 34 programe\\mastermind test 34 programe\\mastermind test 34 programe.csproj": {}
   },
   "projects": {
-    "H:\\uaa11\\uaa11\\mastermind test 34 programe\\mastermind test 34 programe\\mastermind test 34 programe.csproj": {
+    "H:\\edensmastermind\\edensmastermind\\mastermind test 34 programe\\mastermind test 34 programe\\mastermind test 34 programe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\uaa11\\uaa11\\mastermind test 34 programe\\mastermind test 34 programe\\mastermind test 34 programe.csproj",
+        "projectUniqueName": "H:\\edensmastermind\\edensmastermind\\mastermind test 34 programe\\mastermind test 34 programe\\mastermind test 34 programe.csproj",
         "projectName": "mastermind test 34 programe",
-        "projectPath": "H:\\uaa11\\uaa11\\mastermind test 34 programe\\mastermind test 34 programe\\mastermind test 34 programe.csproj",
+        "projectPath": "H:\\edensmastermind\\edensmastermind\\mastermind test 34 programe\\mastermind test 34 programe\\mastermind test 34 programe.csproj",
         "packagesPath": "C:\\Users\\220053\\.nuget\\packages\\",
-        "outputPath": "H:\\uaa11\\uaa11\\mastermind test 34 programe\\mastermind test 34 programe\\obj\\",
+        "outputPath": "H:\\edensmastermind\\edensmastermind\\mastermind test 34 programe\\mastermind test 34 programe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

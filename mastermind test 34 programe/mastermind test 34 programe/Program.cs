@@ -13,11 +13,23 @@ namespace mastermind_test_34_programe
             int pionrouge;
             pionblanc = 0;
             pionrouge = 0;
-            coulDepart(tCodeSecret, alea, out tCodeSecret);
-            coolPlayer(tCouleurJoueur, out tCouleurJoueur);
+            bool cohesion;
+            int compt;
+            string repet;
+            do
+            {
+                compt = 1;
+                cohesion = false;
 
-            calcBonPlace(tCouleurJoueur, tCodeSecret, pionrouge, out pionrouge);
-            calcBonCoul(tCouleurJoueur, tCodeSecret, pionblanc, out pionblanc);
+                do
+                {
+                    coulDepart(tCodeSecret, alea, out tCodeSecret);
+                    coolPlayer(tCouleurJoueur, out tCouleurJoueur);
+                    calcBonPlace(tCouleurJoueur, tCodeSecret, pionrouge, out pionrouge);
+                    calcBonCoul(tCouleurJoueur, tCodeSecret, pionblanc, out pionblanc);
+                } while (cohesion == false || compt == 10);
+                Console.WriteLine("voulez vous recomencez");
+            } while (repet =="y");
         } 
             static void coulDepart(int[] tCodeSecret, Random alea, out int[] lol)
             {
