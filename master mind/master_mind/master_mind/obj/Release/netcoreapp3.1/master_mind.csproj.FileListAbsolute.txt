@@ -1,0 +1,14 @@
+H:\master mind\master_mind\master_mind\bin\Release\netcoreapp3.1\master_mind.exe
+H:\master mind\master_mind\master_mind\bin\Release\netcoreapp3.1\master_mind.deps.json
+H:\master mind\master_mind\master_mind\bin\Release\netcoreapp3.1\master_mind.runtimeconfig.json
+H:\master mind\master_mind\master_mind\bin\Release\netcoreapp3.1\master_mind.runtimeconfig.dev.json
+H:\master mind\master_mind\master_mind\bin\Release\netcoreapp3.1\master_mind.dll
+H:\master mind\master_mind\master_mind\bin\Release\netcoreapp3.1\master_mind.pdb
+H:\master mind\master_mind\master_mind\obj\Release\netcoreapp3.1\master_mind.GeneratedMSBuildEditorConfig.editorconfig
+H:\master mind\master_mind\master_mind\obj\Release\netcoreapp3.1\master_mind.AssemblyInfoInputs.cache
+H:\master mind\master_mind\master_mind\obj\Release\netcoreapp3.1\master_mind.AssemblyInfo.cs
+H:\master mind\master_mind\master_mind\obj\Release\netcoreapp3.1\master_mind.csproj.CoreCompileInputs.cache
+H:\master mind\master_mind\master_mind\obj\Release\netcoreapp3.1\master_mind.dll
+H:\master mind\master_mind\master_mind\obj\Release\netcoreapp3.1\master_mind.pdb
+H:\master mind\master_mind\master_mind\obj\Release\netcoreapp3.1\master_mind.genruntimeconfig.cache
+H:\master mind\master_mind\master_mind\obj\Release\netcoreapp3.1\master_mind.csproj.AssemblyReference.cache
