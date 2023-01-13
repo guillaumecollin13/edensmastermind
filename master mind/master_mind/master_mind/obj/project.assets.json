@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\uaa11\\uaa11\\master mind\\master_mind\\master_mind\\master_mind.csproj",
+      "projectUniqueName": "H:\\edensmastermind\\edensmastermind\\master mind\\master_mind\\master_mind\\master_mind.csproj",
       "projectName": "master_mind",
-      "projectPath": "H:\\uaa11\\uaa11\\master mind\\master_mind\\master_mind\\master_mind.csproj",
+      "projectPath": "H:\\edensmastermind\\edensmastermind\\master mind\\master_mind\\master_mind\\master_mind.csproj",
       "packagesPath": "C:\\Users\\220053\\.nuget\\packages\\",
-      "outputPath": "H:\\uaa11\\uaa11\\master mind\\master_mind\\master_mind\\obj\\",
+      "outputPath": "H:\\edensmastermind\\edensmastermind\\master mind\\master_mind\\master_mind\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
