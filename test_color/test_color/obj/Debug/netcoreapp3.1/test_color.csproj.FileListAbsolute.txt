@@ -1,0 +1,13 @@
+H:\edensmastermind\edensmastermind\test_color\test_color\bin\Debug\netcoreapp3.1\test_color.exe
+H:\edensmastermind\edensmastermind\test_color\test_color\bin\Debug\netcoreapp3.1\test_color.deps.json
+H:\edensmastermind\edensmastermind\test_color\test_color\bin\Debug\netcoreapp3.1\test_color.runtimeconfig.json
+H:\edensmastermind\edensmastermind\test_color\test_color\bin\Debug\netcoreapp3.1\test_color.runtimeconfig.dev.json
+H:\edensmastermind\edensmastermind\test_color\test_color\bin\Debug\netcoreapp3.1\test_color.dll
+H:\edensmastermind\edensmastermind\test_color\test_color\bin\Debug\netcoreapp3.1\test_color.pdb
+H:\edensmastermind\edensmastermind\test_color\test_color\obj\Debug\netcoreapp3.1\test_color.GeneratedMSBuildEditorConfig.editorconfig
+H:\edensmastermind\edensmastermind\test_color\test_color\obj\Debug\netcoreapp3.1\test_color.AssemblyInfoInputs.cache
+H:\edensmastermind\edensmastermind\test_color\test_color\obj\Debug\netcoreapp3.1\test_color.AssemblyInfo.cs
+H:\edensmastermind\edensmastermind\test_color\test_color\obj\Debug\netcoreapp3.1\test_color.csproj.CoreCompileInputs.cache
+H:\edensmastermind\edensmastermind\test_color\test_color\obj\Debug\netcoreapp3.1\test_color.dll
+H:\edensmastermind\edensmastermind\test_color\test_color\obj\Debug\netcoreapp3.1\test_color.pdb
+H:\edensmastermind\edensmastermind\test_color\test_color\obj\Debug\netcoreapp3.1\test_color.genruntimeconfig.cache

@@ -17,9 +17,11 @@ namespace mastermind_test_34_programe
             int compt;
             string repet;
             compt = 0;
-     
+            Console.BackgroundColor = ConsoleColor.Red;
             do
             {
+                Console.WriteLine("bienvenue sur mastermind");
+                Console.WriteLine("vous disposer de 10 essais");
                 cohesion = false;
                 coulDepart(tCodeSecret, alea, out tCodeSecret);
                 do
@@ -50,10 +52,20 @@ namespace mastermind_test_34_programe
                 if (compt == 10000)
                 {
                     Console.WriteLine("vous avez gagné");
+                    Console.WriteLine("la reponse etait bien");
+                    for (int i = 0; i < 4; i++)
+                    {
+                        Console.Write(tCodeSecret[i]);
+                    }
                 }
                 else
                 {
                     Console.WriteLine("vous avez perdu");
+                    Console.WriteLine("la bonne reponse etait");
+                    for (int i = 0; i < 4; i++)
+                    {
+                        Console.Write(tCodeSecret[i]);
+                    }
                 }
                 Console.WriteLine("voulez vous recomencez oui(Y) non(N)");
                 repet = Console.ReadLine();
@@ -65,7 +77,9 @@ namespace mastermind_test_34_programe
             for (int tc = 0; tc < 4; tc++)
             {
                 tCodeSecret[tc] = alea.Next(1, 6);
+                //Console.WriteLine(tCodeSecret[tc]);
             }
+            
             lol = tCodeSecret;
         }
         static void coolPlayer(int[] tCouleurJoueur, out int[] lol)
